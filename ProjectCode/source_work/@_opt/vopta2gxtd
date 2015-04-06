@@ -1,0 +1,799 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/ecegrid/a/ece337/Course_Dev
+Ealu
+Z1 w1360047256
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 d/home/ecegrid/a/ece337/Course_Dev
+Z8 8./Course_IP_VHDL/Datapath/source/alu.vhd
+Z9 F./Course_IP_VHDL/Datapath/source/alu.vhd
+l0
+L19
+VngHAQ6iD_H[A<Dimi[nXY1
+Z10 OL;C;10.1b;51
+31
+Z11 !s108 1392679277.134449
+Z12 !s90 -work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Datapath/source/alu.vhd|
+Z13 !s107 ./Course_IP_VHDL/Datapath/source/alu.vhd|
+Z14 o-work /home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim
+Z15 tExplicit 1 Coverage 47 CoverOpt 1 CoverFEC 0 CoverShortCircuit 0
+!s100 NdU>D_G2^=oBIHXHzlgfE2
+!i10b 1
+Asclable_cla_arch
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 ngHAQ6iD_H[A<Dimi[nXY1
+31
+l71
+L35
+VFzQcnJO:H`3BeJcS7=oTT2
+R10
+R11
+R12
+R13
+R14
+R15
+!i10b 1
+!s100 ]lG`iF7;QHgE?L9`2Aa0D3
+Edatapath
+R1
+R4
+R5
+R6
+R7
+Z16 8./Course_IP_VHDL/Datapath/source/datapath.vhd
+Z17 F./Course_IP_VHDL/Datapath/source/datapath.vhd
+l0
+L17
+VmACJQF@TNfCLdjBJU59UU1
+R10
+31
+Z18 !s108 1392679270.232131
+Z19 !s90 -work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Datapath/source/datapath.vhd|
+Z20 !s107 ./Course_IP_VHDL/Datapath/source/datapath.vhd|
+R14
+R15
+!s100 L6ldkhAAR_2BVe4UM=gZz3
+!i10b 1
+Aflexible_datapath
+R4
+R5
+R6
+DEx4 work 8 datapath 0 22 mACJQF@TNfCLdjBJU59UU1
+31
+l138
+L37
+VUmW0i`f794MP_^UjB:jdm1
+R10
+R18
+R19
+R20
+R14
+R15
+!i10b 1
+!s100 CoQY9z@Mm:5O>F`;ISdDS2
+Edatapath_ctrl
+R1
+R4
+R5
+R6
+R7
+Z21 8./Course_IP_VHDL/Datapath/source/datapath_ctrl.vhd
+Z22 F./Course_IP_VHDL/Datapath/source/datapath_ctrl.vhd
+l0
+L14
+VP6i26eR7MG2bC1E7JjR?Z3
+R10
+31
+Z23 !s108 1392679273.626303
+Z24 !s90 -work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Datapath/source/datapath_ctrl.vhd|
+Z25 !s107 ./Course_IP_VHDL/Datapath/source/datapath_ctrl.vhd|
+R14
+R15
+!s100 kc2BzYIcU@BMDl`nOmQR03
+!i10b 1
+Abehav
+R4
+R5
+R6
+DEx4 work 13 datapath_ctrl 0 22 P6i26eR7MG2bC1E7JjR?Z3
+31
+l56
+L24
+VT8eC@`zk4LMz2G92G]zz31
+R10
+R23
+R24
+R25
+R14
+R15
+!i10b 1
+!s100 Sf=30cMYM7G^HV@OW_]Nm3
+Efifo
+w0
+R5
+R6
+d.
+Z26 8nofile
+Z27 Fnofile
+l0
+L17
+VY8Tza7o5HBNJA_FjQ:;iN2
+R10
+31
+Z28 !s108 1361680855.275510
+Z29 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Fifo/source/fifo.vhd|
+Z30 !s107 ./Course_IP_VHDL/Fifo/source/fifo.vhd|
+Z31 o-nodebug -nodebug -work /home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim
+R15
+!s100 ?<oJc3;:c<nmClPKIRW6m1
+Artl
+R5
+R6
+DEx4 work 4 fifo 0 22 Y8Tza7o5HBNJA_FjQ:;iN2
+l77
+L31
+VD7>Y;PZRA975N7k2egK:W3
+R10
+31
+R28
+R29
+R30
+R31
+R15
+!s100 5b0VgcoBj90iUfJ9OI3>J2
+Efiforam
+w0
+R3
+R2
+R5
+R6
+d.
+R26
+R27
+l0
+L19
+VgdONgJ9mGgOQM68``TA^A2
+R10
+31
+Z32 !s108 1361680863.467972
+Z33 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Fifo/source/fiforam.vhd|
+Z34 !s107 ./Course_IP_VHDL/Fifo/source/fiforam.vhd|
+R31
+R15
+!s100 [OE^VAMVo?dfj<OLZc9ij1
+Artl
+R3
+R2
+R5
+R6
+DEx4 work 7 fiforam 0 22 gdONgJ9mGgOQM68``TA^A2
+l34
+L30
+VYE0[`=lX]PCa7X3S5PIhd3
+R10
+31
+R32
+R33
+R34
+R31
+R15
+!s100 cAF`kz]_km`bddKmPMP[T2
+Ei2c_bus
+Z35 w1360619622
+R5
+R6
+R7
+Z36 8./Course_IP_VHDL/I2C_Bus/source/i2c_bus.vhd
+Z37 F./Course_IP_VHDL/I2C_Bus/source/i2c_bus.vhd
+l0
+L13
+VU6;JZj@Hed1h^@FlfEU7a0
+R10
+31
+Z38 !s108 1361680901.153098
+Z39 !s90 -work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/I2C_Bus/source/i2c_bus.vhd|
+Z40 !s107 ./Course_IP_VHDL/I2C_Bus/source/i2c_bus.vhd|
+R14
+R15
+!s100 Zl;_Od33c`hOhn1n?zmej1
+!i10b 1
+Atrue_bus
+R5
+R6
+DEx4 work 7 i2c_bus 0 22 U6;JZj@Hed1h^@FlfEU7a0
+l32
+L27
+Vhj2WS?[k[QQ<eRS]LbiJ=3
+R10
+31
+R38
+R39
+R40
+R14
+R15
+!s100 jYVnI_NZ]F3XoERZ1I9BD2
+!i10b 1
+Elab7_encoder
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L13
+Vla9c8Ph69P3DPhI?ebXUT2
+R10
+31
+Z41 !s108 1361765056.236177
+Z42 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_encoder.vhd|
+Z43 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_encoder.vhd|
+R31
+R15
+!s100 A6APNac=65CG>m9B20^cA0
+Asimple_arch
+R5
+R6
+DEx4 work 12 lab7_encoder 0 22 la9c8Ph69P3DPhI?ebXUT2
+l29
+L24
+V?VMZO=6:`haRHf]0j@B[K0
+R10
+31
+R41
+R42
+R43
+R31
+R15
+!s100 bOi0Sjo07i?K7Vhb3QR232
+Elab7_out_ctrl
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L13
+V301h2YHMMfeXMJTZ8A<?H0
+R10
+31
+Z44 !s108 1361765062.144051
+Z45 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_out_ctrl.vhd|
+Z46 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_out_ctrl.vhd|
+R31
+R15
+!s100 29hb[hERbeUcYIiaKB0iB3
+Asimple_arch
+R5
+R6
+DEx4 work 13 lab7_out_ctrl 0 22 301h2YHMMfeXMJTZ8A<?H0
+l36
+L25
+V:GE?jDmMQe<fl5gGJ8BX31
+R10
+31
+R44
+R45
+R46
+R31
+R15
+!s100 WG`>]hGR;?G@AkIPS7Mzh2
+Elab7_tcu
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L13
+VaQBdJC_dLhYET=kEC[`[g3
+R10
+31
+Z47 !s108 1361765072.283531
+Z48 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_tcu.vhd|
+Z49 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_tcu.vhd|
+R31
+R15
+!s100 R^b4l7B7<YQ8ZF>A6ida]0
+Amain_arch
+R5
+R6
+DEx4 work 8 lab7_tcu 0 22 aQBdJC_dLhYET=kEC[`[g3
+l48
+L33
+V?[0FX[ji9o1]ki7D>_lJg0
+R10
+31
+R47
+R48
+R49
+R31
+R15
+!s100 `Lh3mnz0CQF?PGmBO_I;X1
+Elab7_timer
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L13
+VhczT@KJYd^D2n_bP@O9Eg3
+R10
+31
+Z50 !s108 1361765082.559562
+Z51 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_timer.vhd|
+Z52 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_timer.vhd|
+R31
+R15
+!s100 EGkcOOE4zbdUMZHM;Q?C@2
+Amain_arch
+R5
+R6
+DEx4 work 10 lab7_timer 0 22 hczT@KJYd^D2n_bP@O9Eg3
+l34
+L25
+V4Q2`6TZ93=[RVB18BZE;G1
+R10
+31
+R50
+R51
+R52
+R31
+R15
+!s100 8YH6AiZTF=hiSBTFk`e8C2
+Elab7_tx_fifo
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L15
+V3:a`[;2T;3eD?a<>bEGC?1
+R10
+31
+Z53 !s108 1361765092.549898
+Z54 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_tx_fifo.vhd|
+Z55 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_tx_fifo.vhd|
+R31
+R15
+!s100 iGOS6Vz22W[L;`iXTe_L;3
+Awrapper
+R5
+R6
+DEx4 work 12 lab7_tx_fifo 0 22 3:a`[;2T;3eD?a<>bEGC?1
+l46
+L29
+Vjzh1V`]HHThONdDD97hZP0
+R10
+31
+R53
+R54
+R55
+R31
+R15
+!s100 HgXVZ6A];`feQE9P8c0ZA2
+Elab7_tx_sr
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L13
+V@L`4G90f>WY@8XQllKc3F0
+R10
+31
+Z56 !s108 1361765102.479140
+Z57 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_tx_sr.vhd|
+Z58 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_tx_sr.vhd|
+R31
+R15
+!s100 [<WVR1fGa`dPkjU`CV6am0
+Aparallel_to_serial
+R5
+R6
+DEx4 work 10 lab7_tx_sr 0 22 @L`4G90f>WY@8XQllKc3F0
+l31
+L26
+VRFa9X>>GlfDXlTj4fFeBZ1
+R10
+31
+R56
+R57
+R58
+R31
+R15
+!s100 j:TMl>6;U[SI:S<2Wa;1F0
+Elab7_usb_transmitter
+w0
+R5
+R6
+d.
+R26
+R27
+l0
+L13
+VfNCF[[_CFm89U5:7]CcEn3
+R10
+31
+Z59 !s108 1361765112.346258
+Z60 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Ind_Lab7/source/lab7_usb_transmitter.vhd|
+Z61 !s107 ./Course_IP_VHDL/Ind_Lab7/source/lab7_usb_transmitter.vhd|
+R31
+R15
+!s100 kV`3TZH<_kIDcM<2F^@Q41
+Atop_level
+R5
+R6
+DEx4 work 20 lab7_usb_transmitter 0 22 fNCF[[_CFm89U5:7]CcEn3
+l132
+L28
+VcQc_cCD3=TlOh5=C2J6QV2
+R10
+31
+R59
+R60
+R61
+R31
+R15
+!s100 aU15aHBZSIMG>V8gjUiXM2
+Eread_fifo_ctrl
+w0
+R3
+R2
+R5
+R6
+d.
+R26
+R27
+l0
+L19
+VE;LY`]S=;2>^ZMafDg0ER2
+R10
+31
+Z62 !s108 1361680871.032658
+Z63 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Fifo/source/read_fifo_ctrl.vhd|
+Z64 !s107 ./Course_IP_VHDL/Fifo/source/read_fifo_ctrl.vhd|
+R31
+R15
+!s100 k96ID7Z6XiNfXW]^j:gL22
+Artl
+R3
+R2
+R5
+R6
+DEx4 work 14 read_fifo_ctrl 0 22 E;LY`]S=;2>^ZMafDg0ER2
+l55
+L31
+VUk_@UEeEXbjidmJo[QVZJ3
+R10
+31
+R62
+R63
+R64
+R31
+R15
+!s100 W2e7jnI=EUYjzXYJSIC6@2
+Eread_ptr
+w0
+R3
+R2
+R5
+R6
+d.
+R26
+R27
+l0
+L19
+VeaXI_LT@z^I7HhS;oJLnk3
+R10
+31
+Z65 !s108 1361680879.063391
+Z66 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Fifo/source/read_ptr.vhd|
+Z67 !s107 ./Course_IP_VHDL/Fifo/source/read_ptr.vhd|
+R31
+R15
+!s100 MZ=kFEaC=6M<3cT6EbzQ@3
+Artl
+R3
+R2
+R5
+R6
+DEx4 work 8 read_ptr 0 22 eaXI_LT@z^I7HhS;oJLnk3
+l38
+L29
+V6W;YalV?:oXYjNBjIX4_00
+R10
+31
+R65
+R66
+R67
+R31
+R15
+!s100 RQPcP[A11Z]ngQlTAmE;W3
+Eregfile
+R1
+R4
+R5
+R6
+R7
+Z68 8./Course_IP_VHDL/Datapath/source/regfile.vhd
+Z69 F./Course_IP_VHDL/Datapath/source/regfile.vhd
+l0
+L14
+V:0P5hoQl;n@XQBJmaEQPJ1
+R10
+31
+Z70 !s108 1392679280.488570
+Z71 !s90 -work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Datapath/source/regfile.vhd|
+Z72 !s107 ./Course_IP_VHDL/Datapath/source/regfile.vhd|
+R14
+R15
+!s100 G@HO07Dz[NVSZU;K5`mUb3
+!i10b 1
+Aflex_register_file
+R4
+R5
+R6
+DEx4 work 7 regfile 0 22 :0P5hoQl;n@XQBJmaEQPJ1
+31
+l63
+L36
+Vf7[NfGUhLINjBmL2oVYd[1
+R10
+R70
+R71
+R72
+R14
+R15
+!i10b 1
+!s100 l5@cLgYOL;<5KVFfd_=j<1
+Escalable_cla_addr
+w0
+R4
+R2
+R3
+R5
+R6
+d.
+R26
+R27
+l0
+L15
+VeWgGcTLeVP4bbW3_Oh5DB0
+R10
+31
+Z73 !s108 1392679207.246073
+Z74 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Scalable-Carry-Look-Ahead-Addr/source/scalable_cla_addr.vhd|
+Z75 !s107 ./Course_IP_VHDL/Scalable-Carry-Look-Ahead-Addr/source/scalable_cla_addr.vhd|
+R31
+R15
+!s100 bX>JPB9giDonPJLm[I><62
+Acla_blk_arch
+R4
+R2
+R3
+R5
+R6
+DEx4 work 17 scalable_cla_addr 0 22 eWgGcTLeVP4bbW3_Oh5DB0
+31
+l78
+L31
+VMU>aS[iH4:GVVgX[NL]3Z1
+R10
+R73
+R74
+R75
+R31
+R15
+!i10b 0
+!s100 A6kh^`3H`4:6EnTV1N1`g0
+Escalable_cla_block
+w0
+R4
+R2
+R3
+R5
+R6
+d.
+R26
+R27
+l0
+L14
+VHMP:9@QgQ]hD0EUoRTDUX2
+R10
+31
+Z76 !s108 1392679210.890915
+Z77 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Scalable-Carry-Look-Ahead-Addr/source/scalable_cla_block.vhd|
+Z78 !s107 ./Course_IP_VHDL/Scalable-Carry-Look-Ahead-Addr/source/scalable_cla_block.vhd|
+R31
+R15
+!s100 @?]TMWmffU5S`6=jnPc];1
+Acla_blk_arch
+R4
+R2
+R3
+R5
+R6
+DEx4 work 18 scalable_cla_block 0 22 HMP:9@QgQ]hD0EUoRTDUX2
+31
+l72
+L30
+Va^fC9SMDQ]]fOhOdJn;[I1
+R10
+R76
+R77
+R78
+R31
+R15
+!i10b 0
+!s100 m2DVDfbTWIE<:nfJV8UKL1
+Escalable_off_chip_sram
+w0
+R4
+R2
+R3
+R5
+R6
+d.
+R26
+R27
+l0
+L14
+V1QgBRV9j7fFgRJD]R8OQ70
+R10
+31
+Z79 !s108 1366101613.030278
+Z80 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Simple_Scale_Offchip_SRAM/source/scalable_off_chip_sram.vhd|
+Z81 !s107 ./Course_IP_VHDL/Simple_Scale_Offchip_SRAM/source/scalable_off_chip_sram.vhd|
+R31
+R15
+!s100 ;6?EXILI87Of:O2U0O4]a3
+Astructural
+R4
+R2
+R3
+R5
+R6
+DEx4 work 22 scalable_off_chip_sram 0 22 1QgBRV9j7fFgRJD]R8OQ70
+l79
+L42
+VOgh3a;N<[4z<[0Y9d8JgP3
+R10
+31
+R79
+R80
+R81
+R31
+R15
+!s100 V8Z:gYWcW4=CHHQ>z7KO]1
+Esimple_scale_mem
+w0
+R4
+R2
+R3
+R5
+R6
+d.
+R26
+R27
+l0
+L16
+VhY1E6S7?5d801kCOTUGVe1
+R10
+31
+Z82 !s108 1366101609.072227
+Z83 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Simple_Scale_Mem/source/simple_scale_mem.vhd|
+Z84 !s107 ./Course_IP_VHDL/Simple_Scale_Mem/source/simple_scale_mem.vhd|
+R31
+R15
+!s100 :EMY=AQ4;82^6eN>JjN9E2
+Ascaleable_memory
+R4
+R2
+R3
+R5
+R6
+DEx4 work 16 simple_scale_mem 0 22 hY1E6S7?5d801kCOTUGVe1
+l258
+L46
+VJ6<7j^_amj<1cYDG[4Nf`1
+R10
+31
+R82
+R83
+R84
+R31
+R15
+!s100 =ce;KL>9Dlfah]<M;LTdY3
+Ewrite_fifo_ctrl
+w0
+R3
+R2
+R5
+R6
+d.
+R26
+R27
+l0
+L19
+VGVHJ>3l_li`42Eal7lnFh0
+R10
+31
+Z85 !s108 1361680886.805436
+Z86 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Fifo/source/write_fifo_ctrl.vhd|
+Z87 !s107 ./Course_IP_VHDL/Fifo/source/write_fifo_ctrl.vhd|
+R31
+R15
+!s100 ?<El9IRZgTJ]>_]H6fAf=0
+Artl
+R3
+R2
+R5
+R6
+DEx4 work 15 write_fifo_ctrl 0 22 GVHJ>3l_li`42Eal7lnFh0
+l55
+L32
+VzMP1PelRYRI;Z_e]UPLh<2
+R10
+31
+R85
+R86
+R87
+R31
+R15
+!s100 ^6Xdnob_koW1nR=G<ZlhS3
+Ewrite_ptr
+w0
+R3
+R2
+R5
+R6
+d.
+R26
+R27
+l0
+L19
+VK;z>L^7;KE5gEB[A3YUez0
+R10
+31
+Z88 !s108 1361680893.828179
+Z89 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim|./Course_IP_VHDL/Fifo/source/write_ptr.vhd|
+Z90 !s107 ./Course_IP_VHDL/Fifo/source/write_ptr.vhd|
+R31
+R15
+!s100 [X7G5?]mnGSkeS^DXIE:R0
+Artl
+R3
+R2
+R5
+R6
+DEx4 work 9 write_ptr 0 22 K;z>L^7;KE5gEB[A3YUez0
+l38
+L29
+Vzbd`2QB[ejPafWLXWH8ZH1
+R10
+31
+R88
+R89
+R90
+R31
+R15
+!s100 jbPYRn_69fXhl2mWYXzHR2

@@ -1,0 +1,5 @@
+Model Technology ModelSim SE-64 vlog 10.1b Compiler 2012.04 Apr 26 2012
+-- Compiling module tb_encoder
+
+Top level modules:
+	tb_encoder

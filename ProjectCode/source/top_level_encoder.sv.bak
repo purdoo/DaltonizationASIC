@@ -1,0 +1,76 @@
+// $Id: $
+// File name:   top_level_encoder.sv
+// Created:     12/2/2014
+// Author:      Sam Schiferl
+// Lab Section: 1
+// Version:     1.0  Initial Design Entry
+// Description: Top Level Encoder file
+
+module top_level_encoder
+  (
+  input wire clk,
+  input wire [7:0] red_in,
+  input wire [7:0] green_in,
+  input wire [7:0] blue_in,
+  input wire data_ready,
+  input wire disp_enable,
+  input wire C0,
+  input wire C1,
+  input wire n_rst,
+  output wire [9:0] red_out,
+  output wire [9:0] green_out,
+  output wire [9:0] blue_out,
+  output wire tmds_clk
+  );
+  
+  reg clear;
+  reg counting;
+  reg [3:0] count_out;
+  reg rollover_flag;
+  
+  always @(data_ready)
+  begin: Start_clock
+    if(counting == 0 && data_ready == 1)
+      counting = 1;
+  end
+      
+  assign tmds_clk = (rollover_flag == 1)? tmds_clk ^ 1: tmds_clk;
+  
+  encoder RED_DUT (
+  .clk(clk),
+  .d_in(red_in),
+  .disp_enable(disp_enable),
+  .C0(C0),
+  .C1(C1),
+  .q_out(red_out)
+  );
+  
+  encoder GREEN_DUT (
+  .clk(clk),
+  .d_in(green_in),
+  .disp_enable(disp_enable),
+  .C0(C0),
+  .C1(C1),
+  .q_out(green_out)
+  );
+  
+  encoder BLUE_DUT (
+  .clk(clk),
+  .d_in(blue_in),
+  .disp_enable(disp_enable),
+  .C0(C0),
+  .C1(C1),
+  .q_out(blue_out)
+  );
+  
+  flex_counter COUNTER_DUT (
+    .clk(clk),
+    .n_rst(n_rst),
+    .clear(clear),
+    .count_enable(counting),
+    .rollover_val(5),
+    .count_out(count_out),
+    .rollover_flag(rollover_flag)
+    );
+    
+  

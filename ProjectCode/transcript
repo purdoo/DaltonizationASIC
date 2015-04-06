@@ -1,0 +1,71 @@
+# //  ModelSim SE-64 10.1b Apr 26 2012 Linux 2.6.32-504.1.3.el6.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim +no_glitch_msg -L /home/ecegrid/a/ece337/Course_Prod/Cell_Libs/AMI_05/vhdl_work -L /home/ecegrid/a/ece337/Class0.5u/GOLD_LIB -Lf /home/ecegrid/a/ece337/Class0.5u/ECE337_IP/vsim -coverage -i -t ps source_work.tb_encoder 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.tb_encoder(fast)
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tmds_encoder(logic)#1
+add wave *
+run 150 ns
+# ** Info: Test Case 1 Passed!
+#    Time: 12 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 88
+# ** Info: Test Case 3 Passed!
+#    Time: 20 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 125
+# ** Info: Test Case 4 Passed!
+#    Time: 24 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 149
+# ** Info: Test Case 5 Passed!
+#    Time: 28 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 163
+# ** Info: Test Case 6 Passed!
+#    Time: 32 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 176
+# ** Info: Test Case 7 Passed!
+#    Time: 36 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 189
+# ** Info: Test Case 8 Passed!
+#    Time: 40 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 202
+# ** Info: Test Case 9 Passed!
+#    Time: 44 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 215
+# ** Info: Test Case 10 Passed!
+#    Time: 48 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 228
+# ** Info: Test Case 11 Passed!
+#    Time: 52 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 241
+# ** Info: Test Case 12 Passed!
+#    Time: 56 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 254
+# Causality operation skipped due to absense of debug database file
+add wave -position end  sim:/tb_encoder/DUT/prev_cnt
+add wave -position end  sim:/tb_encoder/DUT/q_middle_ones
+add wave -position end  sim:/tb_encoder/DUT/q_middle[8]
+restart -f
+# Loading sv_std.std
+# Loading work.tb_encoder(fast)
+run 150 ns
+# ** Info: Test Case 1 Passed!
+#    Time: 12 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 88
+# ** Info: Test Case 3 Passed!
+#    Time: 20 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 125
+# ** Info: Test Case 4 Passed!
+#    Time: 24 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 149
+# ** Info: Test Case 5 Passed!
+#    Time: 28 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 163
+# ** Info: Test Case 6 Passed!
+#    Time: 32 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 176
+# ** Info: Test Case 7 Passed!
+#    Time: 36 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 189
+# ** Info: Test Case 8 Passed!
+#    Time: 40 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 202
+# ** Info: Test Case 9 Passed!
+#    Time: 44 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 215
+# ** Info: Test Case 10 Passed!
+#    Time: 48 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 228
+# ** Info: Test Case 11 Passed!
+#    Time: 52 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 241
+# ** Info: Test Case 12 Passed!
+#    Time: 56 ns  Scope: tb_encoder File: source/tb_encoder.sv Line: 254

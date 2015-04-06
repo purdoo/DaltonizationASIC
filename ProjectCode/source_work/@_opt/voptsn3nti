@@ -1,0 +1,207 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/ecegrid/a/ece337/Course_Dev
+Egold_addr16bit
+w0
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+d.
+Z3 8nofile
+Z4 Fnofile
+l0
+L13
+V_9;?zC]NOnDHcmH;NZ^HP0
+Z5 OL;C;10.1b;51
+31
+Z6 !s108 1361414396.191866
+Z7 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/GOLD_LIB|./Gold_VHDL/Lab3/source/gold_addr16bit.vhd|
+Z8 !s107 ./Gold_VHDL/Lab3/source/gold_addr16bit.vhd|
+Z9 o-nodebug -nodebug -work /home/ecegrid/a/ece337/Class0.5u/GOLD_LIB
+Z10 tExplicit 1 Coverage 47 CoverOpt 1 CoverFEC 0 CoverShortCircuit 0
+!s100 V4h_UFn>n^j@4=FATidm;1
+Agold_addr16bit_arch
+R1
+R2
+DEx4 work 14 gold_addr16bit 0 22 _9;?zC]NOnDHcmH;NZ^HP0
+l35
+L24
+Vh?Ro3ZQ`9:zXVEgGN4mSY0
+R5
+31
+R6
+R7
+R8
+R9
+R10
+!s100 U9z=APezCD;V[m`7z_hjY0
+Egold_addr1bit
+w0
+R1
+R2
+d.
+R3
+R4
+l0
+L11
+V9gKd0D855G[1RlUW69PVk3
+R5
+31
+Z11 !s108 1361414399.966866
+Z12 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/GOLD_LIB|./Gold_VHDL/Lab3/source/gold_addr1bit.vhd|
+Z13 !s107 ./Gold_VHDL/Lab3/source/gold_addr1bit.vhd|
+R9
+R10
+!s100 X=<^_bUe;D]SXn_][_WOM0
+Agold_addr1bit_arch
+R1
+R2
+DEx4 work 13 gold_addr1bit 0 22 9gKd0D855G[1RlUW69PVk3
+l37
+L35
+V1i[?XTSAfMoR`BNXCL71O1
+R5
+31
+R11
+R12
+R13
+R9
+R10
+!s100 G_d6kGN66[JA;deVnfQ]I0
+Egold_avg_four
+Z14 w1360047253
+R1
+R2
+Z15 d/home/ecegrid/a/ece337/Course_Dev
+Z16 8./Gold_VHDL/Lab4/source/gold_avg_four.vhd
+Z17 F./Gold_VHDL/Lab4/source/gold_avg_four.vhd
+l0
+L18
+VIXJ:XR^mocWj0b=SM_BY30
+R5
+31
+Z18 !s108 1392679397.865302
+Z19 !s90 -work|/home/ecegrid/a/ece337/Class0.5u/GOLD_LIB|./Gold_VHDL/Lab4/source/gold_avg_four.vhd|
+Z20 !s107 ./Gold_VHDL/Lab4/source/gold_avg_four.vhd|
+Z21 o-work /home/ecegrid/a/ece337/Class0.5u/GOLD_LIB
+R10
+!s100 4e4OQ5Y43A_9n^k3N4O;V0
+!i10b 1
+Astruct
+R1
+R2
+DEx4 work 13 gold_avg_four 0 22 IXJ:XR^mocWj0b=SM_BY30
+l104
+L33
+VeJIUR^3=>W25iK]ZlgV820
+R5
+31
+R18
+R19
+R20
+R21
+R10
+!s100 2ZVm?WICg:bS_j[P^W`?=0
+!i10b 1
+Egold_controller
+w0
+Z22 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+d.
+R3
+R4
+l0
+L13
+V?T5lP<IIDQn=aBA@FoEZQ1
+R5
+31
+Z23 !s108 1392679398.448067
+Z24 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/GOLD_LIB|./Gold_VHDL/Lab4/source/gold_controller.vhd|
+Z25 !s107 ./Gold_VHDL/Lab4/source/gold_controller.vhd|
+R9
+R10
+!s100 V4knDmbk25EQY@E3GPH9<0
+Abehav
+R22
+R1
+R2
+DEx4 work 15 gold_controller 0 22 ?T5lP<IIDQn=aBA@FoEZQ1
+l62
+L31
+VCfH_oSR34E:7O[odESOPG0
+R5
+31
+R23
+R24
+R25
+R9
+R10
+!s100 OfTVnP=Pi3_M^[ZXSMUaH0
+Egold_counter
+w0
+R1
+R2
+d.
+R3
+R4
+l0
+L12
+Vh^BYY53M<VVSZGY87`0Eh3
+R5
+31
+Z26 !s108 1392679398.699707
+Z27 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/GOLD_LIB|./Gold_VHDL/Lab4/source/gold_counter.vhd|
+Z28 !s107 ./Gold_VHDL/Lab4/source/gold_counter.vhd|
+R9
+R10
+!s100 `LCKb:jlhQOA=F_S9f7m?1
+Abehav
+R1
+R2
+DEx4 work 12 gold_counter 0 22 h^BYY53M<VVSZGY87`0Eh3
+l26
+L23
+VW@_OQTL3:R89>?fA2?ASf0
+!s100 >Fk9c[NcX[2aXzz`?V>O[3
+R5
+31
+R26
+R27
+R28
+R9
+R10
+Egold_sync
+w0
+R1
+R2
+d.
+R3
+R4
+l0
+L12
+VRY_b>j4PS7RJ@<_7<A4`[0
+R5
+31
+Z29 !s108 1392679398.186278
+Z30 !s90 -nodebug|-work|/home/ecegrid/a/ece337/Class0.5u/GOLD_LIB|./Gold_VHDL/Lab4/source/gold_sync.vhd|
+Z31 !s107 ./Gold_VHDL/Lab4/source/gold_sync.vhd|
+R9
+R10
+!s100 ]Bg31a3^HM3Ph29SLd_eV2
+Abehav
+R1
+R2
+DEx4 work 9 gold_sync 0 22 RY_b>j4PS7RJ@<_7<A4`[0
+l26
+L22
+VV2h[3kg<jDKX:KX?`4[Ae0
+R5
+31
+R29
+R30
+R31
+R9
+R10
+!s100 A7l6zk7HNQb[g[eBL@<Fk0

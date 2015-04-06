@@ -1,0 +1,80 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/ecegrid/a/mg36/ece337/ProjectCode
+vencoder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 I1cjNJnbZGV_3Q0OA?cImh1
+Z3 VeA2ZXhIkoUXnCWa7lBD_H3
+Z4 !s105 encoder_sv_unit
+S1
+Z5 d/home/ecegrid/a/mg36/ece337/ProjectCode
+Z6 w1417543270
+Z7 8source/encoder.sv
+Z8 Fsource/encoder.sv
+L0 9
+Z9 OL;L;10.1b;51
+r1
+31
+Z10 !s90 -reportprogress|300|source/encoder.sv|
+Z11 tCoverage 63 CoverExcludeDefault 1 CoverOpt 1 CoverFEC 0 CoverShortCircuit 0
+!i10b 1
+Z12 !s100 jFeg:6:]`LgJ85IH`HinJ3
+!s85 0
+Z13 !s108 1417543273.065280
+Z14 !s107 source/encoder.sv|
+vtb_encoder
+R1
+!i10b 1
+!s100 8:8P2nAlS7CRZ;45KPNJb2
+Ie`6G2C67QbCeSinC0o<_J0
+Z15 VDzWHi_W>mf>_BXH8CL07P3
+Z16 !s105 tb_encoder_sv_unit
+S1
+R5
+w1417543755
+Z17 8source/tb_encoder.sv
+Z18 Fsource/tb_encoder.sv
+L0 11
+R9
+r1
+!s85 0
+31
+!s108 1417543766.747757
+!s107 source/tb_encoder.sv|
+Z19 !s90 -reportprogress|300|source/tb_encoder.sv|
+R11
+Etmds_encoder
+Z20 w1417539890
+Z21 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z22 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R5
+Z23 8source/encoder.vhd
+Z24 Fsource/encoder.vhd
+l0
+L26
+Z25 VG98LkGFE6K3;C^[i==^d=1
+Z26 OL;C;10.1b;51
+31
+Z27 !s108 1417539900.837385
+Z28 !s90 -reportprogress|300|source/encoder.vhd|
+Z29 !s107 source/encoder.vhd|
+Z30 tExplicit 1 Coverage 63 CoverExcludeDefault 1 CoverOpt 1 CoverFEC 0 CoverShortCircuit 0
+Z31 !s100 L3n3=;0MZL2eSHV7LNhWD1
+!i10b 1
+Alogic
+R21
+R22
+Z32 DEx4 work 12 tmds_encoder 0 22 G98LkGFE6K3;C^[i==^d=1
+l41
+L35
+Z33 V_?h_J?<cPFAK121cUfTGP3
+Z34 !s100 :@FB5j>@Pe1WjAn8fUU9c2
+R26
+31
+R27
+R28
+R29
+R30
+!i10b 1
